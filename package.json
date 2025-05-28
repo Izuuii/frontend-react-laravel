@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@tailwindcss/vite": "^4.0.13",
+    "axios": "^1.8.2",
+    "react-confetti": "^6.4.0",
+    "react-router-dom": "^7.3.0",
+    "react-use": "^17.6.0",
+    "tailwindcss": "^4.0.13"
+  }
+}
